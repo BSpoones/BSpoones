@@ -20,7 +20,7 @@ I hate making discord bots
 ```
 
 ### Current Projects:
-
+Here are a list of things I develop / actively maintain
 - [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot)
 - TheKBot2
 - Connecting AI with Discord bots
