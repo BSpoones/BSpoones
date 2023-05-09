@@ -8,7 +8,7 @@ Hey👋, I'm BSpoones
 
 # About
 
-I'm a Discord bot developer with a main skill in Python.
+I'm a Discord bot developer with a main focus in Python.
 
 I mostly make and maintain Discord bots, but I also do a bit of web development and other misc projects on the side!
 
