@@ -12,7 +12,7 @@ I'm a Discord bot developer with a main focus in Python.
 
 I mostly make and maintain Discord bots, but I also do a bit of web development and other misc projects on the side!
 
-I'm a student at the University of Lincoln studying a BSc in Computer Science! 
+I'm currently a student at the University of Lincoln studying a BSc in Computer Science! 
 
 ```
 I make discord bots
