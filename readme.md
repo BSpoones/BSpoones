@@ -30,6 +30,7 @@ Here are a list of things I develop / actively maintain
 ### Future Projects:
 
 - [ ] Modular Discord bot framework
+- [ ] TheKBot3
 
 # Languages & Tools
 
