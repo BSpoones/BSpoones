@@ -32,6 +32,15 @@ Here are a list of things I develop / actively maintain
 - [ ] Modular Discord bot framework
 - [ ] TheKBot3
 
+### Finished Projects
+
+- [X] ACFBot
+- [X] Vitaly Petrov 1
+- [X] Carlos Estabot
+- [X] Vitaly Petrov 2
+- [X] TheKBot2
+- [X] Contextualised AI in discord bots
+
 # Languages & Tools
 
 <p>
