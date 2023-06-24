@@ -81,6 +81,7 @@ Here are a list of things I develop / actively maintain
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBSpoones1212%2Fhit-counter)
 
+[![wakatime](https://wakatime.com/badge/user/b764f474-f8a2-4d1c-a20d-07e1208c83ec.svg)](https://wakatime.com/@b764f474-f8a2-4d1c-a20d-07e1208c83ec)
 </div>
 
 
