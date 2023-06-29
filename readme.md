@@ -25,7 +25,6 @@ Here are a list of things I develop / actively maintain
 - TheKBot2
 - Connecting AI with Discord bots
 - Ticketing systems in Discord
-- Java plugins (Tekkit Classic)
 
 ### Future Projects:
 
