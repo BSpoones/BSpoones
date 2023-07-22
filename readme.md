@@ -22,14 +22,14 @@ I hate making discord bots
 ### Current Projects:
 Here are a list of things I develop / actively maintain
 - [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot)
-- TheKBot2
+- [ ] TheKBot3
 - Connecting AI with Discord bots
 - Ticketing systems in Discord
 
 ### Future Projects:
 
 - [ ] Modular Discord bot framework
-- [ ] TheKBot3
+
 
 ### Finished Projects
 
