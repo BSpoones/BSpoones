@@ -21,26 +21,26 @@ I hate making discord bots
 
 ### Current Projects:
 Here are a list of things I am working on / maintaining
-- [Zephyr](https://github.com/BSpoones/Zephyr)
-- TheKBot3
-- Connecting AI with Discord bots
-- Ticketing systems in Discord
+ - [Zephyr](https://github.com/BSpoones/Zephyr)
+ - TheKBot3
+ - Connecting AI with Discord bots
+ - Ticketing systems in Discord
 
 ### Future Projects:
 
-- [ ] Robotics
-- [ ] Real AI
-- [ ] Vitaly Petrov AI
+ - [ ] Robotics
+ - [ ] Real AI
+ - [ ] Vitaly Petrov AI
 
 ### Discontinued Projects
 
-- [X] ACFBot
-- [X] Vitaly Petrov 1
-- [X] Carlos Estabot
-- [X] Vitaly Petrov 2
-- [X] TheKBot2
-- [X] Contextualised AI in discord bots
-- [X] [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot)
+ - [X] ACFBot
+ - [X] Vitaly Petrov 1
+ - [X] Carlos Estabot
+ - [X] Vitaly Petrov 2
+ - [X] TheKBot2
+ - [X] Contextualised AI in discord bots
+ - [X] [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot)
 
 # Languages & Tools
 <div style=“display: flex; justify-content: center; align-items: center;”>
