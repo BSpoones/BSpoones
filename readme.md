@@ -20,17 +20,17 @@ I hate making discord bots
 ```
 
 ### Current Projects:
-Here are a list of things I am working on / maintaining
- - [Zephyr](https://github.com/BSpoones/Zephyr)
+Here are a list of things I am working on / maintaining (in order of priority)
  - TheKBot3
- - Connecting AI with Discord bots
- - Ticketing systems in Discord
+ - Ticketing system with Discord Bots
+ - Web panel for Discord Bots
+ - [Zephyr](https://github.com/BSpoones/Zephyr)
+ - Connecting AI with Discord Bots
 
 ### Future Projects:
 
  - [ ] Robotics
- - [ ] Real AI
- - [ ] Vitaly Petrov AI
+ - [ ] Vitaly AI
 
 ### Discontinued Projects
 
