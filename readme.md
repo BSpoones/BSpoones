@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
- <a href="https://www.bspoones.com/">
+ <a href="https://www.bspoones.com/" target="_blank">
 Hey 🥄, I'm BSpoones
  </a>
 </h1>
