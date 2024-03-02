@@ -10,11 +10,15 @@ Hey 🥄, I'm BSpoones
 
 # About
 
-I'm a Discord bot developer with a main focus in Python.
+> Junior Software Engineer at **[Synx Games](https://github.com/SynxGames)**
 
-I mostly make and maintain Discord bots, but I also do a bit of web development and other misc projects on the side!
+> Freelance Software Engineer
 
-I'm currently a student at the University of Lincoln studying a BSc in Computer Science! 
+> Discord Bot Developer
+
+I mostly make and maintain Discord Bots when i'm not at work, with some extra random stuff on the side!
+
+I'm currently a second year compsci student at the University of Lincoln!
 
 ```
 I make discord bots
@@ -24,9 +28,9 @@ I hate making discord bots
 ### Current Projects:
 Here are a list of things I am working on / maintaining (in order of priority)
  - TheKBot3
+ - [Zephyr](https://github.com/BSpoones/Zephyr)
  - Ticketing system with Discord Bots
  - Web panel for Discord Bots
- - [Zephyr](https://github.com/BSpoones/Zephyr)
  - Connecting AI with Discord Bots
 
 ### Future Projects:
@@ -48,13 +52,13 @@ Here are a list of things I am working on / maintaining (in order of priority)
 <div style=“display: flex; justify-content: center; align-items: center;”>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" **alt="VSC" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </p>
 </div>
