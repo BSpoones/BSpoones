@@ -27,6 +27,7 @@ I hate making discord bots
 
 ### Current Projects:
 Here are a list of things I am working on / maintaining (in order of priority)
+ - [Zeus](https://github.com/BSpoones/Zeus)
  - TheKBot3
  - [Zephyr](https://github.com/BSpoones/Zephyr)
  - Ticketing system with Discord Bots
