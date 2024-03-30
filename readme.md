@@ -1,12 +1,8 @@
-
-
 <h1 align="center">
  <a href="https://www.bspoones.com/" target="_blank">
 Hey 🥄, I'm BSpoones
  </a>
 </h1>
-
-
 
 # About
 
@@ -25,31 +21,23 @@ I make discord bots
 I hate making discord bots
 ```
 
-### Current Projects:
-Here are a list of things I am working on / maintaining (in order of priority)
- - [Zeus](https://github.com/BSpoones/Zeus)
- - TheKBot3
- - [Zephyr](https://github.com/BSpoones/Zephyr)
- - Ticketing system with Discord Bots
- - Web panel for Discord Bots
- - Connecting AI with Discord Bots
+### Projects
 
-### Future Projects:
-
- - [ ] Robotics
- - [ ] Vitaly AI
-
-### Discontinued Projects
-
- - [X] ACFBot
- - [X] Vitaly Petrov 1
- - [X] Carlos Estabot
- - [X] Vitaly Petrov 2
- - [X] TheKBot2
- - [X] Contextualised AI in discord bots
- - [X] [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot)
+| Project                                                | Type                                              | Description                                     | Dates                                        |
+|--------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|----------------------------------------------|
+| [**Zeus**](https://github.com/BSpoones/Zeus)           | <div align='center' title='In Progress' >🚧</div> | JDA Command handler                             | <div align='center'>2024-03 ➤ Ongoing</div>  |
+| [**Zephyr**](https://github.com/BSpoones/Zephyr)       | <div align='center' title='In Progress' >🚧</div> | Personal JDA Discord Bot                        | <div align='center'>2023-08 ➤ Ongoing</div>  |
+| TheKBot4                                               | <div align='center' title='In Progress' >🚧</div> | JDA Discord Bot for UT-MC                       | <div align='center'>2023-12 ➤ Ongoing</div>  |
+| Norbert                                                | <div align='center' title='Complete' >✅</div>     | Hikari-Tanjun Python Discord Bot for EnviroMC   | <div align='center'>2023-03 ➤ 2023-05</div>  |
+| [Cutlery Bot](https://github.com/BSpoones/Cutlery-Bot) | <div align='center' title='Complete' >✅</div>     | Personal Hikair-Tanjun Python Discord Bot       | <div align='center'>2021-11 ➤ Ongoing        |
+| TheKBot2                                               | <div align='center' title='Complete' >✅</div>     | Hikari-Tanjun Python Discord Bot for UT-MC      | <div align='center'>2022-01 ➤ Ongoing </div> |
+| Vitaly Petrov v2                                       | <div align='center' title='Complete' >✅</div>     | Personal Discord-py Discord Bot                 | <div align='center'>2021-05 ➤ 2022-06</div>  |
+| Carlos Estabot                                         | <div align='center' title='Complete' >✅</div>     | Personal Discord-py Discord Bot                 | <div align='center'>2021-01 ➤ 2021-06</div>  |
+| Vitaly Petrov v1                                       | <div align='center' title='Complete' >✅</div>     | Personal Discord-py Discord Bot                 | <div align='center'>2020-10 ➤ 2021-01</div>  |
+| ACFBot                                                 | <div align='center' title='Complete' >✅</div>     | Discord-py Discord bot for the Army Cadet Force | <div align='center'>2020-09 ➤ 2020-11</div>  |
 
 # Languages & Tools
+
 <div style=“display: flex; justify-content: center; align-items: center;”>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
