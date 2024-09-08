@@ -4,24 +4,40 @@ Hey 🥄, I'm BSpoones
  </a>
 </h1>
 
-# About
+<h3 align="center">About me</h3>
 
-> Junior Software Engineer at **[Synx Games](https://github.com/SynxGames)**
+I currently work at **[Synx Games](https://github.com/SynxGames)** as a Minecraft Software Engineer, designing, developing, and testing plugins that are used across Synx Games' managed servers!
 
-> Freelance Software Engineer
+I am a third year Computer Science student at the University of Lincoln
 
-> Discord Bot Developer
-
-I mostly make and maintain Discord Bots when i'm not at work, with some extra random stuff on the side!
-
-I'm currently a second year compsci student at the University of Lincoln!
 
 ```
 I make discord bots
 I hate making discord bots
 ```
 
-### Projects
+
+<h3 align="center">Projects</h3>
+
+### [Zeus](https://github.com/BSpoones/Zeus)
+
+Zeus is a custom command framework used to create discord bots in JDA. It has many unique features such as JSON configuration, custom Mongo database utilities, and much more! I started development of Zeus in March 2024 in order to familiarise myself with JDA and bot development in Java as a whole. 
+
+Currently Zeus is in its development phase, as I tweak and add features. Zeus is actively used in:
+
+- [AureusMC](https://store.aureusmc.org/)
+- Zephyr
+- All UT-MC Discord bots
+
+Feel free to check out what Zeus can do! If you have any ideas/suggestions for features to add, feel free to contact me!
+
+### Zephyr
+
+Zephyr is my latest discord bot. This is intended to be a complete rewrite and replacement of Cutlery Bot.
+
+
+
+
 
 | Project                                                | Type                                              | Description                                     | Dates                                        |
 |--------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|----------------------------------------------|
@@ -38,7 +54,7 @@ I hate making discord bots
 
 # Languages & Tools
 
-<div style=“display: flex; justify-content: center; align-items: center;”>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; align-items: center;">
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/> 
@@ -75,7 +91,7 @@ I hate making discord bots
 
 <div style="display: flex; justify-content: center;">
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBSpoones1212%2Fhit-counter)
+
 
 [![wakatime](https://wakatime.com/badge/user/b764f474-f8a2-4d1c-a20d-07e1208c83ec.svg)](https://wakatime.com/@b764f474-f8a2-4d1c-a20d-07e1208c83ec)
 </div>
