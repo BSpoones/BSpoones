@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">About me</h3>
+<hr>
 
 I am a Software Engineer at  **[Synx Games](https://github.com/SynxGames)**, I spend most of my time there designing, developing and testing minecraft plugins that are used across Synx Games' managed servers!
 
@@ -12,6 +13,7 @@ I am a also third year Computer Science student at the University of Lincoln
 
 
 <h3 align="center">Personal Projects</h3>
+<hr>
 
 ### [Zeus](https://github.com/BSpoones/Zeus)
 
@@ -42,8 +44,7 @@ Currently, Zephyr is in its development phase, with a projected completion date 
 
 
 <h3 align="center">Stats</h3>
-
-# Stats
+<hr>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
@@ -72,7 +73,8 @@ Currently, Zephyr is in its development phase, with a projected completion date 
 </div>
 
 
-<h3 align="center">Stats</h3>
+<h3 align="center">Contact</h3>
+<hr>
 
 Feel free to add me on the following:
 
