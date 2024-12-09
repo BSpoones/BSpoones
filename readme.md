@@ -1,8 +1,5 @@
-<h1 align="center">
- <a href="https://www.bspoones.com/" target="_blank">
-🐝🥄
- </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=45F700&center=true&vCenter=true&random=true&width=435&lines=Bee+Spoon%F0%9F%90%9D%F0%9F%A5%84)](https://git.io/typing-svg)
+
 
 <h3 align="center">About me</h3>
 <hr>
