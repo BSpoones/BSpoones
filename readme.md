@@ -33,6 +33,10 @@ I have been writing discord bots for the last five years, from small bots used i
 
 Currently, Zephyr is in its development phase, with a projected completion date of Q1 2025. More information will be given soon™️
 
+### Athena
+
+???
+
 ### Older Projects
 
 - [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot): Previous version of [Zephyr](#zephyr)
