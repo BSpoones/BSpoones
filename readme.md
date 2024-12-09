@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=45F700&center=true&vCenter=true&random=true&width=435&lines=Bee+Spoon%F0%9F%90%9D%F0%9F%A5%84)](https://git.io/typing-svg)
-
+<h1 align="center">
+ <a href="https://www.bspoones.com/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&duration=3000&pause=10000&color=24F700&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%90%9D%F0%9F%A5%84+BSpoones">
+ </a>
+</h1>
 
 <h3 align="center">About me</h3>
 <hr>
