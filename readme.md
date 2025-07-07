@@ -13,7 +13,7 @@
 >
 > 🖥️ **[2 Years] Software Engineer @ [Synx Games](https://github.com/SynxGames)**
 >
-> 🖥️ **[4 Years] Discord Bot Developer @ [UT-MC](https://github.com/UT-MC)**
+> 🤖 **[4 Years] Discord Bot Developer @ [UT-MC](https://github.com/UT-MC)**
 >
 > 🛠️ **[5 Years] Discord Development Experience**
 
