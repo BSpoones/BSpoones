@@ -4,12 +4,23 @@
  </a>
 </h1>
 
+
+
 <h3 align="center">About me</h3>
 <hr>
 
-I am a Software Engineer at  **[Synx Games](https://github.com/SynxGames)**, I spend most of my time there designing, developing and testing minecraft plugins that are used across Synx Games' managed servers!
+> 🎓 Holder of a First Class BSc with Honours in Computer Science
+>
+> 🖥️ **[2 Years] Software Engineer @ [Synx Games](https://github.com/SynxGames)**
+>
+> 🛠️ **[5 Years] Discord Development Experience**
 
-I am a also third year Computer Science student at the University of Lincoln 
+<h3 align="center">Professional Experience</h3>
+<hr>
+
+**[Synx Games](https://github.com/SynxGames)**
+
+Designing, developing, testing, and maintaining high-performance Minecraft mods & plugins used across all of Synx Games' managed servers.
 
 
 <h3 align="center">Personal Projects</h3>
