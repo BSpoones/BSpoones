@@ -95,7 +95,7 @@ Currently, Zephyr is in its development phase, with a projected completion date 
 
 Feel free to add me on the following:
 
-![discord](https://dcbadge.vercel.app/api/shield/724351142158401577?compact=true)
+![discord](https://dcbadge.limes.pink/api/shield/724351142158401577?compact=true)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BSpoones)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spoones/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bspoones/)
