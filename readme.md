@@ -17,49 +17,6 @@
 >
 > 🛠️ **[5 Years] Discord Development Experience**
 
-<h3 align="center">Professional Experience</h3>
-<hr>
-
-**[Synx Games](https://github.com/SynxGames)**
-
-Designing, developing, testing, and maintaining high-performance Minecraft mods & plugins used across all of Synx Games' managed servers.
-
-
-<h3 align="center">Personal Projects</h3>
-<hr>
-
-### [Zeus](https://github.com/BSpoones/Zeus)
-
-Zeus is a custom command framework used to create discord bots in JDA. It has many unique features such as JSON configuration, custom Mongo database utilities, and much more! I started development of Zeus in March 2024 in order to familiarise myself with JDA and bot development in Java as a whole. 
-
-Currently, Zeus is in its development phase, as I tweak and add features. Zeus is actively used in:
-
-- [AureusMC](https://store.aureusmc.org/)
-- Zephyr
-- All UT-MC Discord bots
-
-Feel free to check out what Zeus can do! If you have any ideas/suggestions for features to add, feel free to contact me!
-
-### [Zephyr](https://github.com/BSpoones/Zephyr)
-
-I have been writing discord bots for the last five years, from small bots used in the Army Cadet Force, to lesson reminder bots, to moderation bots used to track server changes. Zephyr is the amalgamation of five years of Discord knowledge.
-
-Currently, Zephyr is in its development phase, with a projected completion date of Q1 2025. More information will be given soon™️
-
-### Athena
-
-???
-
-### Older Projects
-
-- [**Cutlery Bot**](https://github.com/BSpoones/Cutlery-Bot): Previous version of [Zephyr](#zephyr)
-- Norbert: AI integration Discord Bot for EnviroMC
-- TheKBot: Moderation Discord bot for UT-MC
-- Vitaly Petrov: Personal lesson reminder bot (2020, 2021-2022)
-- Carlos Estabot: Personal lesson reminder bot (2021)
-- ACFBot: Assistive bot for Army Cadet Force online lessons in 2020
-
-
 <h3 align="center">Stats</h3>
 <hr>
 
