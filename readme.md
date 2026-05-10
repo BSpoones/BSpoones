@@ -20,6 +20,10 @@
 <h3 align="center">Stats</h3>
 <hr>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BSpoones/BSpoones/output/github-contribution-grid-snake.gif" alt="BSpoones' contribution snake" />
+</p>
+
 <div style="display: flex; justify-content: center; align-items: center;">
 
   <a href="https://git.io/streak-stats" style="display: flex; align-items: center; justify-content: center; margin-right: 3px;">
