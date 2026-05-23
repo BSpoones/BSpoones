@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <h3>👋 About</h3>
       <p>
         Hi, I'm Ben Soones, a Software Engineer based in Lincoln.
@@ -27,7 +27,7 @@
         frameworks behind reliable Discord bots.
       </p>
     </td>
-    <td width="42%" valign="top">
+    <td width="50%" valign="top">
       <h3>⚡ Quick Facts</h3>
       <ul>
         <li>🎓 First Class BSc (Hons) in Computer Science</li>
