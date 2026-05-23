@@ -92,7 +92,7 @@
 <h3 align="center">📊 Stats</h3>
 <p align="center">
   <img height="195em" src="https://streak-stats.demolab.com?user=BSpoones&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img height="195em" src="https://raw.githubusercontent.com/BSpoones/BSpoones/main/metrics.languages.svg" alt="Most used languages" />
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSpoones&theme=github_dark" alt="Top languages by repo" />
 </p>
 
 <p align="center">
