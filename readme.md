@@ -33,7 +33,7 @@
         <li>🎓 First Class BSc (Hons) in Computer Science</li>
         <li>💼 [2 yrs] Software Engineer @ <a href="https://synx.games" target="_blank" rel="noopener noreferrer">SynxGames</a></li>
         <li>🤖 [4 yrs] Discord Bot Developer @ <a href="https://github.com/UT-MC" target="_blank" rel="noopener noreferrer">UT-MC</a></li>
-        <li>🛠️ [5 yrs] Professional Development Experience @ <a href="https://github.com/UT-MC" target="_blank" rel="noopener noreferrer">UT-MC</a></li>
+        <li>🛠️ [5 yrs] Professional Development Experience</li>
       </ul>
     </td>
   </tr>
