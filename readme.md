@@ -65,7 +65,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/BSpoones" target="_blank" rel="noopener noreferrer">Apollo</a></h4>
+      <h4><a href="https://github.com/BSpoones/Apollo" target="_blank" rel="noopener noreferrer">Apollo</a></h4>
       An atomic, reference based approach to storing JSON, YAML, and other config file types
     </td>
     <td width="50%" valign="top">
