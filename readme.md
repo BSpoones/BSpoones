@@ -18,7 +18,7 @@
         Hi, I'm Ben Soones, a Software Engineer based in Lincoln.
       </p>
       <p>
-        At <a href="https://synx.games" target="_blank" rel="noopener noreferrer"><b>SynxGames</b></a>,
+        At <a href="https://synx.games" target="_blank" rel="noopener noreferrer"><b>Synx Games</b></a>,
         I develop scalable infrastructure for networked Minecraft servers (Fabric, Paper, Forge).
         Most recently I helped build <b>MineBounds</b>, an open-world prison gamemode for SSundee.
       </p>
@@ -31,9 +31,9 @@
       <h3>⚡ Quick Facts</h3>
       <ul>
         <li>🎓 First Class BSc (Hons) in Computer Science</li>
-        <li>💼 [2 yrs] Software Engineer @ <a href="https://synx.games" target="_blank" rel="noopener noreferrer">SynxGames</a></li>
-        <li>🤖 [4 yrs] Discord Bot Developer @ <a href="https://github.com/UT-MC" target="_blank" rel="noopener noreferrer">UT-MC</a></li>
-        <li>🛠️ [5 yrs] Professional Development Experience</li>
+        <li>💼 [3 yrs] Software Engineer @ <a href="https://synx.games" target="_blank" rel="noopener noreferrer">SynxGames</a></li>
+        <li>🤖 [5 yrs] Discord Bot Developer @ <a href="https://github.com/UT-MC" target="_blank" rel="noopener noreferrer">UT-MC</a></li>
+        <li>🛠️ [6 yrs] Professional Development Experience</li>
       </ul>
     </td>
   </tr>
